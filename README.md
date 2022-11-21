@@ -28,7 +28,7 @@ I also loves Writing and Reading poetry. I also like to travel to the new places
 
 - 📄 Know about my experiences [My Resume](https://github.com/Mozakir178/Resume/blob/main/Mohammad-Zakir-Resume.pdf)
 
-- ⚡ Fun fact **I loves writing poetry.**
+- ⚡ Fun fact **I loves reading poetry.**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
