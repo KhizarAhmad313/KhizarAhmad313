@@ -1,9 +1,12 @@
-<h1 style="color: #44AEFB;"> 👨🏻‍💻 Khizar Ahmad</h1>
 
-<img align="center" alt="coding" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" />
-
-
-<p align:"center" style="text-align: center; margin: 10px 50px; font-size: 20px;" >
+<div align="center">
+<h1 style="color: #44AEFB;"> 》 KHIZAR AHMAD 《 </h1>
+    </div>
+<div align="center">
+<img alt="coding" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" />
+</div>
+<br>
+<p align:"center" style="text-align: justify; margin: 10px 50px; font-size: 20px;" >
     "As a programming student, I am constantly learning and improving my skills in the field. I am passionate about solving problems and creating efficient solutions using code. In my free time, I enjoy participating in hackathons and working on personal projects to continue learning and growing as a programmer. I am excited to see where my studies in programming will take me and am dedicated to becoming a skilled and knowledgeable developer."
 <br>
 <br>
@@ -77,7 +80,7 @@
 
 <!-- Statistics -->
 
-<h2 style="color: #44AEFB">📊 Statistics</h2>
+<h2 style="color: #44AEFB">📊 My Github Statistics</h2>
 
 ![stats_banner](https://user-images.githubusercontent.com/78341798/194534778-d662496c-ae00-4e8d-ae9b-b90912054e7f.gif)
 
@@ -114,4 +117,11 @@
 <a href="https://www.hackerrank.com/@khizarahmad313" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@khizarahmad313" height="30" width="40" /></a>
 
 </div>
+<br>
+
+<h3 align="center">
+ Show some ❤️ by starring some of the repositories!
+</h3>
+  
+ <img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 <!-- End Footer -->
